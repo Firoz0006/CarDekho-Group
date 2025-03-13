@@ -55,7 +55,7 @@ This app includes a **secure authentication system** to protect user data.
 
 ### 🔹 Authentication Screens:
 
-![Screenshot 1](https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20204605.png)
+![Screenshot 1]<img src = "https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20204605.png" width ="800">
 
 ![Screenshot 2](https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20210018.png)
 
