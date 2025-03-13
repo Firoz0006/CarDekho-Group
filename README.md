@@ -50,11 +50,7 @@ run:python app.py
 
 ## 🔒 Authentication
 
-## 🔒 Authentication
-
-This app includes a **secure authentication system** to protect user data.
-
-### 🔹 Authentication Screens:
+### 🔹 Authentication Screensshot:
 
 ![Screenshot 1](https://github.com/Firoz0006/CarDekho-Group/blob/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20204605.png)
 
