@@ -52,5 +52,5 @@ run:python app.py
 This app includes a **secure authentication system** to protect user data.
 
 ### 🔹 Authentication Screen:
-![Authentication Screenshot](images/authentication.png)
+![Authentication Screenshot](csv_question_app/Screenshort/Screenshot 2025-03-13 204605.png)
 
