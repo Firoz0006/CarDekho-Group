@@ -44,5 +44,5 @@ It integrates **Ollama + Pydantic AI** to process queries efficiently and ensure
 ### **1️⃣ Install & Run Dependencies**  
 ```bash
 pip install gradio pandas matplotlib ollama pydantic-ai
-/ Opent Terminal 
+// Opent Terminal 
 run:python app.py
