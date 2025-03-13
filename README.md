@@ -30,7 +30,7 @@ It integrates **Ollama + Pydantic AI** to process queries efficiently and ensure
 
 ---
 
-## 🏗️ Tech Stack  
+## 🏗️ Tech Stack(Necessary Library and Lanaguage) 
 - **Python** (Core language)  
 - **Gradio** (Frontend UI)  
 - **Pandas** (CSV processing)  
@@ -44,3 +44,5 @@ It integrates **Ollama + Pydantic AI** to process queries efficiently and ensure
 ### **1️⃣ Install Dependencies**  
 ```bash
 pip install gradio pandas matplotlib ollama pydantic-ai
+/ Opent Terminal 
+run:python app.py
