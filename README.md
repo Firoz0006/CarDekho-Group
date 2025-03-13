@@ -46,6 +46,7 @@ It integrates **Ollama + Pydantic AI** to process queries efficiently and ensure
 pip install gradio pandas matplotlib ollama pydantic-ai
 // Opent Terminal 
 run:python app.py
+---
 
 ## 🔒 Authentication
 
@@ -55,7 +56,7 @@ This app includes a **secure authentication system** to protect user data.
 
 ### 🔹 Authentication Screens:
 
-![Screenshot 1]<img src = "https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20204605.png" width ="800">
+![Screenshot 1](https://github.com/Firoz0006/CarDekho-Group/blob/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20204605.png)
 
 ![Screenshot 2](https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20210018.png)
 
