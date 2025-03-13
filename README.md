@@ -65,10 +65,3 @@ pip install gradio pandas matplotlib ollama pydantic-ai
 run:python app.py
 ---
 
-## 🔒 Authentication
-
-### 🔹 Authentication Screensshot:
-
-This app includes a **secure authentication system** to protect user data.
-
-### 🔹 Authentication Screens:
