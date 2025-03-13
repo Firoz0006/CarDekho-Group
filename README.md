@@ -47,8 +47,10 @@ pip install gradio pandas matplotlib ollama pydantic-ai
 // Opent Terminal 
 run:python app.py
 
-# Features
+## 🔒 Authentication
 
-### Authentication
-![](F:\16_Games\NLP_Projects_basic\CarDekho-Group\csv_question_app\Screenshort\Screenshot 2025-03-13 204605.png)
+This app includes a **secure authentication system** to protect user data.
+
+### 🔹 Authentication Screen:
+![Authentication Screenshot](images/authentication.png)
 
