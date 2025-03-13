@@ -1,4 +1,4 @@
-# CarDekho-Group
+<!-- # CarDekho-Group
 
 # 📊 Gradio-Based CSV Question Answering & Visualization App  
 
@@ -64,4 +64,4 @@ This app includes a **secure authentication system** to protect user data.
 
 ![Screenshot 4](https://raw.githubusercontent.com/Firoz0006/CarDekho-Group/main/csv_question_app/Screenshort/Screenshot%202025-03-13%20210313.png)
 
-
+ -->
