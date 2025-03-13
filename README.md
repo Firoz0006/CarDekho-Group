@@ -59,7 +59,7 @@ run:python app.py
 
 ## 🔒 Authentication
 
-## 🔒 Authentication
+### 🔹 Authentication Screensshot:
 
 This app includes a **secure authentication system** to protect user data.
 
