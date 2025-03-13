@@ -46,3 +46,9 @@ It integrates **Ollama + Pydantic AI** to process queries efficiently and ensure
 pip install gradio pandas matplotlib ollama pydantic-ai
 // Opent Terminal 
 run:python app.py
+
+# Features
+
+### Authentication
+![](F:\16_Games\NLP_Projects_basic\CarDekho-Group\csv_question_app\Screenshort\Screenshot 2025-03-13 204605.png)
+
