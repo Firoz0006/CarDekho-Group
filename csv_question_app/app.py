@@ -2,6 +2,8 @@ import gradio as gr
 import pandas as pd
 from query_processor import process_query
 from graph_plotter import plot_graph
+from pydantic_ai import Agent
+import ollama
 
 csv_data = None  # Global variable to store uploaded CSV data
 
